@@ -29,6 +29,7 @@ autoconf
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT{%{_bindir},%{_mandir}/man1}
+
 install mscompress msexpand $RPM_BUILD_ROOT%{_bindir}
 install mscompress.1 msexpand.1 $RPM_BUILD_ROOT%{_mandir}/man1
 
