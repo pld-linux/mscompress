@@ -8,7 +8,7 @@ Group:		Applications/Archiving
 Source0:	ftp://ftp.penguin.cz/pub/users/mhi/mscompress/%{name}-%{version}.tar.bz2
 # Source0-md5:	e85fe2fb0df95a7a921ecd867933ff89
 BuildRequires:	autoconf
-BuildRequires:  automake
+BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
