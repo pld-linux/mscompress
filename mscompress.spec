@@ -1,5 +1,5 @@
 Summary:	MS compress/expand-compatible (de)compressor
-Summary(pl):	(De)kompresor zgodny z MS compress/expand
+Summary(pl.UTF-8):   (De)kompresor zgodny z MS compress/expand
 Name:		mscompress
 Version:	0.3
 Release:	3
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Microsoft compress.exe/expand.exe-compatible file (de)compressor.
 
-%description -l pl
-Program kompresuj±cy i dekompresuj±cy zgodny z compress.exe/expand.exe
+%description -l pl.UTF-8
+Program kompresujÄ…cy i dekompresujÄ…cy zgodny z compress.exe/expand.exe
 Microsoftu.
 
 %prep
