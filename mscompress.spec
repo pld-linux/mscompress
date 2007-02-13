@@ -1,5 +1,5 @@
 Summary:	MS compress/expand-compatible (de)compressor
-Summary(pl.UTF-8):   (De)kompresor zgodny z MS compress/expand
+Summary(pl.UTF-8):	(De)kompresor zgodny z MS compress/expand
 Name:		mscompress
 Version:	0.3
 Release:	3
